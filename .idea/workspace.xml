@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1feebd9-6bbc-4700-9772-6d83b6687cbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsVReview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsVReview.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsReview/review_expression.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_expression.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsReview/review_loop_and_if.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_loop_and_if.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,13 +15,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="jsBs" />
         <option value="HTML File" />
+        <option value="BootStrapDefault" />
+        <option value="jsBs" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ldSZxNe6oCgHZXnzBVZbdqDLeT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -60,11 +72,24 @@
       <workItem from="1607925539711" duration="3316000" />
       <workItem from="1609905831071" duration="117000" />
       <workItem from="1609987577133" duration="443000" />
+      <workItem from="1610168744873" duration="2247000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
