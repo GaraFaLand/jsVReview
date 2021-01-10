@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1feebd9-6bbc-4700-9772-6d83b6687cbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/jsVReview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsVReview.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsReview/review_expression.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_expression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsReview/review_loop_and_if.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_loop_and_if.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsReview/review_function.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_function.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,20 @@
       <recent name="D:\develop\project\jsVReview" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.for_1.html">
+    <configuration name="for_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsVReview/jsReview/ex/for_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="while_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsVReview/jsReview/ex/while_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.for_1.html" />
+        <item itemvalue="JavaScript Debug.while_1.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +85,7 @@
       <workItem from="1609905831071" duration="117000" />
       <workItem from="1609987577133" duration="443000" />
       <workItem from="1610168744873" duration="2247000" />
+      <workItem from="1610243422889" duration="3929000" />
     </task>
     <servers />
   </component>
