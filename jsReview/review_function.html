@@ -70,7 +70,7 @@
     };
 
     callTen(callback);
-    */
+
 
     function returnFunction() {
         return function () {
@@ -79,6 +79,18 @@
     }
 
     returnFunction()();
+    */
+
+    //4.closer
+    function test(name) {
+        let output = 'Hello ' + name + '.';
+        return function () {
+            alert(output);
+        };
+    }
+
+    test('IronMan')();
+
 
 
 </script>
