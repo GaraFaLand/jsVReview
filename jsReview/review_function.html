@@ -31,20 +31,56 @@
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"></script>
 <script>
-    var input = prompt('return','text');
 
-    var fun = function (input) {
-        alert(input);
+    //1.sumAll() - 1
+    /*
+    function sumAll() {
+        let result = 0;
+        for (let i = 0; i < arguments.length; i++) {
+            result += arguments[i];
+        }
+        return result;
     }
 
-    fun(input);
+    alert(sumAll(1,2,3,4,5,6,7,8,9));
+    */
 
+    //2.inner function
     /*
-    var ction = function() {alert('a');}
-    function ction() {alert('b');}
+    function pythagoras(width, height) {
+        function square(x) {
+            return x * x;
+        }
+        return Math.sqrt(square(width) + square(height));
+    }
 
-    result = alert 'a'
-     */
+    alert(pythagoras(15, 30));
+    */
+
+    //3.callback function
+    /*
+    function callTen(callback) {
+        for (let i = 0; i < 10; i++) {
+            callback();
+        }
+    }
+
+    let callback = function () {
+        alert('Hello');
+    };
+
+    callTen(callback);
+    */
+
+    function returnFunction() {
+        return function () {
+            alert('return function');
+        };
+    }
+
+    returnFunction()();
+
+
 </script>
 
 </body>

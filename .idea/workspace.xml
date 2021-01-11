@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f1feebd9-6bbc-4700-9772-6d83b6687cbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsReview/ex/for_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/ex/for_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsReview/ex/mini_maxi.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jsReview/review_function.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsReview/review_function.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +61,11 @@
       <recent name="D:\develop\project\jsVReview" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.for_1.html">
+  <component name="RunManager" selected="JavaScript Debug.review_function.html">
     <configuration name="for_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsVReview/jsReview/ex/for_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="review_function.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsVReview/jsReview/review_function.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="while_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jsVReview/jsReview/ex/while_1.html" useBuiltInWebServerPort="true">
@@ -68,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.review_function.html" />
         <item itemvalue="JavaScript Debug.for_1.html" />
         <item itemvalue="JavaScript Debug.while_1.html" />
       </list>
@@ -85,7 +91,8 @@
       <workItem from="1609905831071" duration="117000" />
       <workItem from="1609987577133" duration="443000" />
       <workItem from="1610168744873" duration="2247000" />
-      <workItem from="1610243422889" duration="3929000" />
+      <workItem from="1610243422889" duration="4805000" />
+      <workItem from="1610340570718" duration="2606000" />
     </task>
     <servers />
   </component>
