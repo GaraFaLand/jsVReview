@@ -28,5 +28,32 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"></script>
+<script>
+    let person = {
+        name: 'abc',
+        eat: function (food) {
+            alert(this.name + ' eat ' + food);
+            //eat = method
+        }
+    }
+
+    let product = {
+        name: 'Microsoft',
+        price: '1,500$',
+        language: 'eng',
+        supportOS: 'Win64',
+        subscription: true
+    };
+
+    let output = '';
+
+    //object -> for in
+    for (let productKey in product) {
+        output += '/' + productKey + ' : ' + product[productKey] + '\n';
+    }
+    alert(output);
+
+</script>
+
 </body>
 </html>
