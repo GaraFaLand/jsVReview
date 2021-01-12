@@ -45,11 +45,33 @@
         subscription: true
     };
 
-    let output = '';
+    // let output = '';
 
     //object -> for in
-    for (let productKey in product) {
-        output += '/' + productKey + ' : ' + product[productKey] + '\n';
+    // for (let productKey in product) {
+    //     output += '/' + productKey + ' : ' + product[productKey] + '\n';
+    // }
+    // alert(output);
+
+    let student = {
+        name: 'qwerty',
+        eng: 90,
+        math: 90,
+        science: 90,
+        power: 80
+    };
+
+    // alert('name is student key : ' + ('name' in student));
+    // alert('speed is student key : ' + ('speed' in student));
+
+    let output = '';
+    with (student)  {
+        output += 'Name : ' + name + '\n';
+        output += 'Eng : ' + eng + '\n';
+        output += 'Math : ' + math + '\n';
+        output += 'Science : ' + science + '\n';
+        output += 'Power : ' + power + '\n';
+        output += 'Sum : ' + (eng + math + science + power);
     }
     alert(output);
 
