@@ -15,6 +15,7 @@
         <option value="HTML File" />
         <option value="BootStrapDefault" />
         <option value="jsBs" />
+        <option value="JavaScript File" />
         <option value="STANDARD" />
       </list>
     </option>
@@ -94,7 +95,9 @@
       <workItem from="1610427138454" duration="3462000" />
       <workItem from="1610513639391" duration="400000" />
       <workItem from="1610600224185" duration="3265000" />
-      <workItem from="1611030278497" duration="1715000" />
+      <workItem from="1611030278497" duration="1982000" />
+      <workItem from="1611033446082" duration="886000" />
+      <workItem from="1611035253477" duration="1199000" />
     </task>
     <servers />
   </component>
