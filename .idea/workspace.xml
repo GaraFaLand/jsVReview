@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f1feebd9-6bbc-4700-9772-6d83b6687cbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/dataType.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/dataType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
         <option value="jsBs" />
         <option value="JavaScript File" />
         <option value="STANDARD" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -46,6 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,6 +63,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\develop\project\jsVReview" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\develop\project\jsVReview\BS_Design\resources" />
+      <recent name="C:\develop\project\jsVReview\WoP" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.review_function.html">
@@ -100,7 +108,7 @@
       <workItem from="1611033446082" duration="886000" />
       <workItem from="1611035253477" duration="3240000" />
       <workItem from="1611362912379" duration="35000" />
-      <workItem from="1611362999851" duration="303000" />
+      <workItem from="1611362999851" duration="2272000" />
     </task>
     <servers />
   </component>
