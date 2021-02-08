@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1feebd9-6bbc-4700-9772-6d83b6687cbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/dataType.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/dataType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/dataType.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +16,10 @@
         <option value="HTML File" />
         <option value="BootStrapDefault" />
         <option value="jsBs" />
-        <option value="JavaScript File" />
-        <option value="STANDARD" />
         <option value="template" />
         <option value="CSS File" />
+        <option value="STANDARD" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>

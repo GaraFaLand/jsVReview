@@ -44,3 +44,9 @@ const symbol1 = Symbol('id');
 const symbol2 = Symbol('id');
 
 console.log(symbol1===symbol2);
+
+console.log('my' + 'cat');
+console.log('1' + 2);
+console.log(`string literals : 1 + 2 = ${1 +2}`);
+
+console.log(2**4);
