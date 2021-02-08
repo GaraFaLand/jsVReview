@@ -2,18 +2,18 @@
 'use strict';
 
 //let and var, hoisting
-{
+// {
     //block scope
-let name = 'GFL';
-console.log(name);
-name = 'hell';
-console.log(name);
+// let name = 'GFL';
+// console.log(name);
+// name = 'hell';
+// console.log(name);
 //console.log(global); possible.
-}
+// }
 
-let global = 'global Boyyyyyyyy';
+// let global = 'global Boyyyyyyyy';
 //console.log(name); impossible.
-console.log(global);
+// console.log(global);
 
 //var hoisting is mk global variable. and ignore the scope.
 //{
@@ -33,3 +33,14 @@ console.log(global);
     number : -2**53 ~ 2**53
     + bigInt : bigger then number.
  */
+
+//js el
+
+const test = 'testing';
+const hello = `hi ${test}`;
+console.log(`hello ${hello}`);
+
+const symbol1 = Symbol('id');
+const symbol2 = Symbol('id');
+
+console.log(symbol1===symbol2);
