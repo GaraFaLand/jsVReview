@@ -73,3 +73,8 @@ const arrow = () => console.log('arrow');
 const add = (a,b) => a + b;
 console.log(add(2,4));
 arrow();
+
+//IIFE : Immediately Invoked Function Expression
+(function hello() {
+    console.log('hello');
+})();
