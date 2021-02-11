@@ -17,8 +17,8 @@
         <option value="jsBs" />
         <option value="template" />
         <option value="CSS File" />
-        <option value="STANDARD" />
         <option value="JavaScript File" />
+        <option value="STANDARD" />
       </list>
     </option>
   </component>
@@ -113,7 +113,8 @@
       <workItem from="1611362999851" duration="3480000" />
       <workItem from="1612586718928" duration="1823000" />
       <workItem from="1612655959931" duration="3503000" />
-      <workItem from="1612842974329" duration="8835000" />
+      <workItem from="1612842974329" duration="8869000" />
+      <workItem from="1613013916189" duration="2351000" />
     </task>
     <servers />
   </component>
